@@ -1,7 +1,7 @@
 ############################################################
-# Name:
+# Name: Sophie Avery
 # Name(s) of anyone worked with:
-# Est time spent (hr):
+# Est time spent (hr): 0.5
 ############################################################
 
 from pgl import GWindow, GRect, GOval, GLine, GLabel
