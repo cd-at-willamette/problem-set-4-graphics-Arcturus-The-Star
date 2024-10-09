@@ -1,7 +1,7 @@
 ########################################
-# Name:
+# Name: Sophie Avery
 # Collaborators:
-# Estimated time spent (hrs):
+# Estimated time spent (hrs): 1
 ########################################
 
 from pgl import GWindow, GRect
@@ -10,7 +10,7 @@ WIDTH = 400 #window width
 HEIGHT = 400 #window height
 BRICK_WIDTH = 40
 BRICK_HEIGHT = 20
-BRICKS_IN_BASE = 5
+BRICKS_IN_BASE = 6
 
 def draw_pyramid():
     """ 
