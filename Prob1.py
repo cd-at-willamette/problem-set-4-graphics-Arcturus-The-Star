@@ -37,6 +37,7 @@ def draw_image():
         label = GLabel(text,x,y)
         label.set_color(color)
         gw.add(label)
+    make_rect(0,0,600,600, "Orange")
     make_rect(100, 100, 300,300,"Red")
     make_oval(100,100,300,300,"Blue")
     make_line(100,100,250,250,5,"Green")
